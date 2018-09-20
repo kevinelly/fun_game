@@ -14,7 +14,7 @@ public class FunGameTest {
 
     @Test
     /**
-     * test for stage1
+     * test for stage1 
      */
     public void printNormall() throws Exception {
         List<String> list = funGame.printNormall(100);
